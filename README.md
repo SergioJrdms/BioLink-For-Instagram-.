@@ -1,2 +1,2 @@
 # BioLink-For-Instagram-.
-[Pt] BioLink para o instagram de um amigo designer // [En] BioLink to a designer friends Instagram
+[Pt] Um simples site de biolink para um amigo designer // [En] A simple Biolink site for a designer friend
